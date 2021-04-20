@@ -1,0 +1,133 @@
+if game.PlaceId == 2753915549 then -- BLOXFRUIT (old world)
+getgenv().key = "MAMMOZ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/magma.lua"))()  --MagMa Hub CRACK
+elseif game.PlaceId == 4442272183 then --BLOXFRUIT (New World)
+    
+elseif game.PlaceId == 394506555 then -- gluepiece
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/HUB-obfuscator/main/opm3.lua"))()
+    
+elseif game.PlaceId == 606849621 then --jail break
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Project-Evolution/Main/main/Loader.lua", true))()
+    
+elseif game.PlaceId == 1224212277 then --mad city
+loadstring(game:HttpGet("https://jack1214060.xyz/jayhub",true))()
+    
+elseif game.PlaceId == 4616652839 then --shindo lift
+loadstring(game:HttpGet("https://pastebin.com/raw/i53Y3rew",true))()   --Mhee Hub
+
+elseif game.PlaceId == 171391948 then --vehicle simulator
+loadstring(game:HttpGet("https://pastebin.com/raw/cNe4Q9UE"))()
+    
+elseif game.PlaceId == 5303541547 then --two piece
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Historia00012/HISTORIAHUB/main/two%20hee"))()
+    
+elseif game.PlaceId == 4520749081 then --king piece (King Legacy(OLD WORLD))
+loadstring(game:HttpGet("https://pastebin.com/raw/B72WTXdQ"))()
+
+elseif game.PlaceId == 1537690962 then --Bee Swarm Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infinitylua/Luascripts/main/KJFsdEj8sXrja.lua"))()
+
+elseif game.PlaceId == 537413528 then --Build A Boat For Treasure
+loadstring(game:HttpGet("https://pastebin.com/raw/AfW5fuDS", true))()
+
+elseif game.PlaceId == 914010731 then -- Ro-Ghoul
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/hackbloxfruits/main/hub"))()
+
+elseif game.PlaceId == 2809202155 then --Your Bizarre Adventure
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/HACKSCRIPT/main/MHEE.HUB.UNIVERSAL",true))()
+
+elseif game.PlaceId == 286090429 then --Arsenal
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
+
+elseif game.PlaceId == 142823291 then --Murder Mystery
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script", true))()
+
+elseif game.PlaceId == 2629642516 then -- Bitcoin Miner
+loadstring(game:HttpGet("https://hypernite.xyz/Scripts/BCMX.lua"))()
+
+elseif game.PlaceId == 5835263912 then --One Piece Millennium 3
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/emperorhubfree/free-scripts/main/One%20Piece%3A%20Millennium%203%22"))()
+
+elseif game.PlaceId == 4934471106 then --My Hero Mania
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+elseif game.PlaceId == 5912800471 then --My Hero Mania
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Solx69/Shit-Boy-Hub-Main/main/Master.lua'))();
+
+elseif game.PlaceId == 1458767429 then -- Anime Battle Arena
+loadstring(game:HttpGet("https://raw.githubusercontent.com/travislmao/pub-scripts/main/abagui", true))()
+
+elseif game.PlaceId == 5177601831 then -- Ninja Legends
+loadstring(game:HttpGet("https://pastebin.com/raw/gkXtJkd6"))()
+
+elseif game.PlaceId == 3956818381 then -- Ninja Legends 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iTzGerard/NinjaLegends2/main/Script"))()
+
+elseif game.PlaceId == 3101667897 then -- Legends Of Speed
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ALT-prog/3392ea6721a3c53807c073624dac9f27/raw/302d9ab4b7d887ba39d5ce98585b36afb73e04d9/Load_2", true))()
+
+elseif game.PlaceId == 5702949743 then --Imposter
+loadstring(game:HttpGet("https://pastebin.com/raw/5pfE51zr"))()
+
+elseif game.PlaceId == 4996049426 then --All Star Tower Defense
+loadstring(game:HttpGet("http://assasine.com/Scripts/All%20Star%20Tower%20Defense.lua", true))()
+
+elseif game.PlaceId == 3237168 then --One Piece Legendary
+loadstring(game:HttpGet("https://pastebin.com/raw/c6KDRdxv"))()
+
+elseif game.PlaceId == 5603739866 then --Psycho Infinite
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10x00/Public-Scripts/main/Psycho%20100%3A%20Infinity.lua"))();
+
+elseif game.PlaceId == 6447798030 then --Funky Friday
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua",true))()
+
+elseif game.PlaceId == 4058282580 then --BOXING SIMULATOR
+loadstring(game:HttpGet('https://pastebin.com/raw/mY2qKBWc'))()
+
+elseif game.PlaceId == 1962086868 then --Tower Of Hell
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Scripts/master/Tower%20of%20Hell"))()
+
+elseif game.PlaceId == 292439477 then --Phantom Forces
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EHUBWINNING/SYNAPSE/main/V2.lua"))()
+
+elseif game.PlaceId == 5624454107 then --hxh Ultimate
+loadstring(game:HttpGet("https://pastebin.com/raw/Rxj58X7y"))()
+
+elseif game.PlaceId == 4687223983 then --Anime Battle Simulator
+loadstring(game:HttpGet("https://pastebin.com/raw/KjjRkRtd"))()
+
+elseif game.PlaceId == 4042427666 then --Anime Fighting Simulator
+loadstring(game:HttpGet("https://scripts.mattlawz.dev/AnimeSim.lua"))()
+
+elseif game.PlaceId == 4410049285 then --Driving Simulator
+loadstring(game:HttpGet(("https://pastebin.com/raw/1eUa3ErV"), true))()
+
+elseif game.PlaceId == 6186867282 then --Project XL
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/koonpeatch/PeatEX/master/BKHAX/Project%20XL"),true))()
+
+elseif game.PlaceId == 2727067538 then --World Zero
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/Main.Lua"))()
+
+elseif game.PlaceId == 5177601831 then --Hero Ultimatum
+loadstring(game:HttpGet("http://skyhubking.xyz/script/free_script/main%20game.lua"))()  --Sky Hub
+
+elseif game.PlaceId == 6329844902 then --Last Piece
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",true))() --Mhee Hub
+
+elseif game.PlaceId == 3400631762 then --Jojo Blox
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/polar"))() --Polar Hub(CRACK)
+elseif game.PlaceId == 4313854107 then --Jojo Blox(ITALY)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/polar"))() --Polar Hub(CRACK)
+
+elseif game.PlaceId == 4566572536 then --Vehicle Legends
+loadstring(game:HttpGet("https://pastebin.com/raw/0MqfXpvY", true))()
+
+else
+game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
+    
+end
+
+
+
+
+
+
