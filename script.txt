@@ -2,6 +2,8 @@ if game.PlaceId == 2753915549 then -- BLOXFRUIT (old world)
 getgenv().key = "MAMMOZ"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/magma.lua"))()  --MagMa Hub CRACK
 elseif game.PlaceId == 4442272183 then --BLOXFRUIT (New World)
+getgenv().key = "MAMMOZ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/magma.lua"))()  --MagMa Hub CRACK
     
 elseif game.PlaceId == 394506555 then -- gluepiece
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/HUB-obfuscator/main/opm3.lua"))()
