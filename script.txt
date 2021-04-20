@@ -123,6 +123,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main
 elseif game.PlaceId == 4566572536 then --Vehicle Legends
 loadstring(game:HttpGet("https://pastebin.com/raw/0MqfXpvY", true))()
 
+elseif game.PlaceId == 6494523288 then --Blade Quest
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Blade-Quest/main/Blade%20Quest"))()
+
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
