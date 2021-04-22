@@ -126,6 +126,24 @@ loadstring(game:HttpGet("https://pastebin.com/raw/0MqfXpvY", true))()
 elseif game.PlaceId == 6494523288 then --Blade Quest
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Blade-Quest/main/Blade%20Quest"))()
 
+elseif game.PlaceId == 6331132338 then --Pet Swarm Simulator
+loadstring(game:HttpGet("http://void-scripts.com/Scripts/petSwarmSim.lua"))()
+
+elseif game.placeId == 111311599 then --CRITICAL STRIKE
+loadstring(game:HttpGet("https://maxv.ml/weis/CritiKalStrike.lua"))()
+
+elseif game.placeId == 4952780297 then --Combat Rift
+loadstring(game:HttpGet("https://pastebin.com/raw/HDznidKJ"))()
+
+elseif game.placeId == 2986677229 then --Giant Simulator
+loadstring(game:HttpGet("https://gist.githubusercontent.com/HaxxV1/d7cfdb5090e819a84a8db22fb113f39d/raw"))()
+
+elseif game.placeId == 3623096087 then --Muscle Legends
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Muscle-Legends/main/New%20Text%20Document%20(4).lua"))()
+
+elseif game.placeId == 3351674303 then --Driving Empire
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Driving-Empire/main/New%20Text%20Document%20(4).lua"))() --Executeปุ๊บAuto farm ทันที   
+
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
