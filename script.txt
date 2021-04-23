@@ -130,7 +130,7 @@ elseif game.PlaceId == 6331132338 then --Pet Swarm Simulator
 loadstring(game:HttpGet("http://void-scripts.com/Scripts/petSwarmSim.lua"))()
 
 elseif game.placeId == 111311599 then --CRITICAL STRIKE
-loadstring(game:HttpGet("https://maxv.ml/weis/CritiKalStrike.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ICEEDev/Epic-Roblox-Scripts/master/CrticalStrike.lua"))()
 
 elseif game.placeId == 4952780297 then --Combat Rift
 loadstring(game:HttpGet("https://pastebin.com/raw/HDznidKJ"))()
