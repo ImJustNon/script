@@ -39,7 +39,7 @@ elseif game.PlaceId == 2809202155 then --Your Bizarre Adventure
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/HACKSCRIPT/main/MHEE.HUB.UNIVERSAL",true))()
 
 elseif game.PlaceId == 286090429 then --Arsenal
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
 
 elseif game.PlaceId == 142823291 then --Murder Mystery
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Doggo-cryto/EclipseMM2/master/Script", true))()
