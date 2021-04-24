@@ -147,6 +147,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Driving-Emp
 elseif game.placeId == 292439477 then --Phantom Forces
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EHUBWINNING/SYNAPSE/main/V2.lua"))()
     
+elseif game.placeId == 3233893879 then --Bad Business
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KikoTheDon/ImportantBusiness/main/script/educational_purposes_only_LOL.lua"))()
+
+elseif game.placeId == 301549746 then --Counter Blox
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YouresFriend/robolx/main/RobloxCB.lua"))()
+    
+elseif game.placeId == 4734949248 then --Demon Slayer RPG
+loadstring(game:HttpGet("https://raw.githubusercontent.com/chimnguu/ngu/master/dsrpg2.lua"))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
