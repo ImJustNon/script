@@ -144,6 +144,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Muscle-Lege
 elseif game.placeId == 3351674303 then --Driving Empire
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Driving-Empire/main/New%20Text%20Document%20(4).lua"))() --Executeปุ๊บAuto farm ทันที   
 
+elseif game.placeId == 292439477 then --Phantom Forces
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EHUBWINNING/SYNAPSE/main/V2.lua"))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
