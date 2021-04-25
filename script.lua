@@ -159,6 +159,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/chimnguu/ngu/master/d
 elseif game.placeId == 734159876 then --Shark Bite
 loadstring(game:GetObjects("rbxassetid://3623753581")[1].Source)()
     
+elseif game.placeId == 2619187362 then --Super Power Fighting Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dk4Q/Dk4QHub/master/Loader", true))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
