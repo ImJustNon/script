@@ -156,6 +156,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YouresFriend/robolx/m
 elseif game.placeId == 4734949248 then --Demon Slayer RPG
 loadstring(game:HttpGet("https://raw.githubusercontent.com/chimnguu/ngu/master/dsrpg2.lua"))()
     
+elseif game.placeId == 734159876 then --Shark Bite
+loadstring(game:GetObjects("rbxassetid://3623753581")[1].Source)()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
