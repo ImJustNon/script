@@ -162,6 +162,12 @@ loadstring(game:GetObjects("rbxassetid://3623753581")[1].Source)()
 elseif game.placeId == 2619187362 then --Super Power Fighting Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dk4Q/Dk4QHub/master/Loader", true))()
     
+elseif game.placeId == 3260590327 then --Tower Defense Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/Scripts/master/AutoFarm%20TDS%20Config"))()
+
+elseif game.placeId == 5902977746 then --Ultimate Tower Defense Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sowd0404/Ultimate-Tower-Defense-AutoPlayer/main/Source.lua"))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
