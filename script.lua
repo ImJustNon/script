@@ -113,7 +113,8 @@ elseif game.PlaceId == 5177601831 then --Hero Ultimatum
 loadstring(game:HttpGet("http://skyhubking.xyz/script/free_script/main%20game.lua"))()  --Sky Hub
 
 elseif game.PlaceId == 6329844902 then --Last Piece
-loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",true))() --Mhee Hub
+_G.Keys = "Last_Piece_Free"
+loadstring(game:HttpGet("https://pastebin.com/raw/Y0sAs42t"))()  --Xenon Hub
 
 elseif game.PlaceId == 3400631762 then --Jojo Blox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/polar"))() --Polar Hub(CRACK)
