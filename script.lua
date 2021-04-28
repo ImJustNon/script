@@ -168,6 +168,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/Scripts/mas
 elseif game.placeId == 5902977746 then --Ultimate Tower Defense Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sowd0404/Ultimate-Tower-Defense-AutoPlayer/main/Source.lua"))()
     
+elseif game.placeId == 6090639744 then --Bacon Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/BaconSexSimulator.lua"))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
