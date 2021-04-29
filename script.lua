@@ -116,9 +116,9 @@ elseif game.PlaceId == 6329844902 then --Last Piece
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB",true))()  --Mhee Hub
 
 elseif game.PlaceId == 3400631762 then --Jojo Blox
-loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/polar"))() --Polar Hub(CRACK)
+loadstring(game:HttpGet("https://polarhub.xyz/PolarFreeScript/NormalScript.lua"))() --Polar Hub
 elseif game.PlaceId == 4313854107 then --Jojo Blox(ITALY)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/crack/main/polar"))() --Polar Hub(CRACK)
+loadstring(game:HttpGet("https://polarhub.xyz/PolarFreeScript/NormalScript.lua"))() --Polar Hub
 
 elseif game.PlaceId == 4566572536 then --Vehicle Legends
 loadstring(game:HttpGet("https://pastebin.com/raw/0MqfXpvY", true))()
