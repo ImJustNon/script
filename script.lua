@@ -189,6 +189,9 @@ loadstring(game:HttpGet("https://pastebin.com/raw/7WptzRZr"))()
 elseif game.placeId == 6284881984 then --Anime Mania
 loadstring(game:HttpGet("https://raw.githubusercontent.com/trashss/trashs-scripts-obfuscated/main/Anime%20Mania%20%5BALPHA%5D", true))()
     
+elseif game.placeId == 5201039691 then --Tatakai Reborn
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/HUB-obfuscator/main/Tatakai%20Reborn"))()
+       
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
