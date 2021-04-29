@@ -170,6 +170,24 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Sowd0404/Ultimate-Tow
     
 elseif game.placeId == 6090639744 then --Bacon Simulator
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptRUs/Banana/main/BaconSexSimulator.lua"))()
+
+elseif game.placeId == 659222129 then --Swordburst 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LegoHacks/Swordburst-2/main/Main.lua"))()
+
+elseif game.placeId == 2986677229 then --Giant Simulator
+loadstring(game:HttpGet("https://pastebin.com/raw/FKCB2JcG"))()
+
+elseif game.placeId == 1122519450 then --Titan Simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoNnYhA55/Titan-Simulator/main/Titan%20Simulator.lua"))()
+
+elseif game.placeId == 443406476 then --ZOMBIES
+loadstring(game:HttpGet("https://pastebin.com/raw/x46An9Pf"))()
+
+elseif game.placeId == 6312753269 then --Super Evolution
+loadstring(game:HttpGet("https://pastebin.com/raw/7WptzRZr"))()
+
+elseif game.placeId == 6284881984 then --Anime Mania
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trashss/trashs-scripts-obfuscated/main/Anime%20Mania%20%5BALPHA%5D", true))()
     
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
