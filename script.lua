@@ -191,7 +191,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/trashss/trashs-script
     
 elseif game.placeId == 5201039691 then --Tatakai Reborn
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toeydeklnw/HUB-obfuscator/main/Tatakai%20Reborn"))()
-       
+    
+elseif game.placeId == 5450332716 then --Math Simulator
+loadstring(game:HttpGet("https://pastebin.com/raw/LiTLMU99"))()
+    
 else
 game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
     
