@@ -196,7 +196,7 @@ elseif game.placeId == 5450332716 then --Math Simulator
 loadstring(game:HttpGet("https://pastebin.com/raw/LiTLMU99"))()
     
 else
-game.Players.LocalPlayer:Kick("ยังไม่ SUPPORT ไอสัส!!!ขี้เกียจทำ!!!")
+game.Players.LocalPlayer:Kick("ยังไม่SUPPORTเกมนี้ไอสัส!!!หัดไปดูช่องผักกาดในดิสบ้าง ไอ้เหี้ย!!!lol")
     
 end
 
